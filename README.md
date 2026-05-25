@@ -1,13 +1,11 @@
-# Financial News & AI Sentiment Summarizer 📈🤖
+# Financial News Summarizer 📈🤖
 
 An end-to-end NLP data pipeline that fetches live news related to Artificial Intelligence and utilizes a Retrieval-Augmented Generation (RAG) framework to generate semantic, context-aware summaries. 
-
-This project bridges classical data extraction with state-of-the-art transformer architectures, specifically designed to optimize data digestion speed for financial analysts.
 
 ---
 
 ## 🚀 Key Features
-* **Live Data Mining:** Fetches real-time market and tech news using the `NewsData.io` API connection.
+* **Live Data Mining:** Fetches latest market and tech news using the `NewsData.io` API connection.
 * **Semantic Embeddings:** Utilizes the pre-trained `all-MiniLM-L6-v2` transformer model to convert unstructured text into dense vector spaces.
 * **Educational Codebase:** Fully documented data science workflows tracking the mathematical foundation of RAG (chunking strategies, overlapping, and similarity search).
 
