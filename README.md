@@ -83,3 +83,11 @@ ollama pull nomic-embed-text
 - The **free tier** of NewsData.io returns a limited number of articles per request — monitor usage at [newsdata.io/dashboard](https://newsdata.io/dashboard)
 - The local LLM quality depends on your machine's RAM — `llama3.2` (3B) is recommended for most laptops
 - ChromaDB index is persisted to `./news_chroma_db` and reused across sessions — no need to re-index unless new articles are fetched
+
+---
+
+## Reading Materials
+
+- Complete Guide to Embeddings and RAG [link](https://medium.com/@sharanharsoor/the-complete-guide-to-embeddings-and-rag-from-theory-to-production-758a16d747ac)
+- DataNews.io API Documentation [link](https://newsdata.io/documentation?gad_source=1&gad_campaignid=21223993572&gclid=CjwKCAjwuO_QBhAWEiwAIkVhU8jCJJD2R0URZ2pUq3KtSBzNxaj735Vus-Kem7MwjHIzpcl_2axoIxoCC1YQAvD_BwE)
+- Writing on GitHub [link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github)
